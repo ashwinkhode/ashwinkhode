@@ -1,24 +1,21 @@
-### Hi there 👋
 
 <div align='center'>
     <img src='https://pbs.twimg.com/profile_banners/940458040939053056/1620886612/1500x500'></img>
 </div>
-
 <br>
 <div align='center'>
-
 [![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashwinkhode.netlify.app/)
-
 </div>
 <hr>
 <br>
 
-# I'm listening to
+## I'm listening to
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/746b8uhh9vsmifbb7mzv9z54d)
 
-## I'm a CSE Student 🎓
+## Hi there 👋 
 
+- 🎓 I'm a CSE Student 
 - ⚡ A Software Engineer specializing in Web technologies & I design things too.
 - 🔭 I’m currently working on Fullstack projects using Typescript
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -31,7 +28,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 <br>

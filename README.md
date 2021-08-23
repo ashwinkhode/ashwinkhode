@@ -3,9 +3,8 @@
     <img src='https://pbs.twimg.com/profile_banners/940458040939053056/1620886612/1500x500'></img>
 </div>
 <br>
-<div align='center'>
-[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://ashwinkhode.netlify.app/)
-</div>
+
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://ashwinkhode.netlify.app/)
 <hr>
 <br>
 
@@ -38,8 +37,6 @@
 ![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=ashwinkhode&theme=gruvbox&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkhode)](https://github.com/ashwinkhode/ashwinkhode)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashwinkhode&layout=compact)](https://github.com/ashwinkhode/ashwinkhode)
 
 
 <br>
